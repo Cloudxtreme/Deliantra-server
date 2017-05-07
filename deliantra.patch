@@ -1,0 +1,4 @@
+230c230
+<         include/Makefile.in  include/config.h   include/living.h    include/player.h     include/slotinc.h \
+---
+>         include/config.h   include/living.h    include/player.h     include/slotinc.h \
